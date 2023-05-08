@@ -22,6 +22,6 @@ Countries: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japa
 
 📄 Reference
 
-Arrigoni, S., Bobasu, A., Venditti, F., 2022. Measuring Financial Conditions using Equal Weights Combination. IMF Economic Review.
+Arrigoni, Simone and Bobasu, Alina and Venditti, Fabrizio, 2022: “Measuring financial conditions using equal weights combination”, IMF Economic Review, 70: 668–697.
 
 https://link.springer.com/article/10.1057/s41308-022-00170-y
