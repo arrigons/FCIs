@@ -10,8 +10,7 @@ The database contains the three sets of Financial Conditions Indices constructed
 
 🔹 TVP-FCI: Time-Varying Parameters FCI (tvp_fci in the database)
 
-Indices are standardized. For each index type, aggregate measures are also available: global, advanced economies, emerging markets, euro area. Aggregate indices are weighted averages of country level FCIs with GDP PPP shares as weights.
-
+Indices are standardized. For each index type, aggregate measures are also available: global, advanced economies, emerging markets, euro area. Aggregate indices are weighted averages of country level FCIs with GDP PPP shares as weights. The excel file containes a more detailed description of all the variables.
 
 🌍 Sample
 
