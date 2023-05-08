@@ -15,7 +15,7 @@ Indices are standardized. For each index type, aggregate measures are also avail
 
 🌍 Sample
 
-Time: Jan 1995 - May 2022.
+Time: Jan 1995 - May 2020.
 
 Countries: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Mexico, New Zealand, Norway, Russia, South Korea, Sweden, Turkey, United Kingdom, United States.
 
