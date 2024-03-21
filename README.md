@@ -1,5 +1,7 @@
 # Financial Conditions Indices (FCIs)
 
+March 2024: The FCIs are now updated to February 2024!
+
 🗃️ Description
 
 The database contains the three sets of Financial Condition Indices (FCIs) constructed in Arrigoni, Bobasu, Venditti (2022):
