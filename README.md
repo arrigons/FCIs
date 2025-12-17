@@ -1,6 +1,6 @@
 # Financial Conditions Indices (FCIs)
 
-March 2024: The FCIs are now updated to February 2024!
+December 2025: The FCIs are now updated to November 2025 (V3)!
 
 🗃️ Description
 
@@ -16,7 +16,7 @@ Indices are standardized. For each index type, aggregate measures are also avail
 
 🌍 Sample
 
-Time: Jan 1995 - May 2020 (Now extended to Feb 2024!)
+Time: Jan 1995 - May 2020 (Now extended to Nov 2025!)
 
 Countries: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Mexico, New Zealand, Norway, Russia, South Korea, Sweden, Turkey, United Kingdom, United States.
 
